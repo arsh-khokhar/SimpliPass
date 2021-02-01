@@ -6,11 +6,11 @@ _Maximize your academic success through optimal course selections and reviews!_
 
 ### Web
 
-<img src="src/screenshots/simplipass_Web.png" width="900"/>
+<img src="screenshots/simplipass_Web.png" width="900"/>
 
 ### Mobile
 
-<img src="src/screenshots/simplipass_Mobile1.png" width="240"/> <img src="src/screenshots/simplipass_Mobile2.png" width="240"/> <img src="src/screenshots/simplipass_Mobile3.png" width="240"/>
+<img src="screenshots/simplipass_Mobile1.png" width="240"/> <img src="screenshots/simplipass_Mobile2.png" width="240"/> <img src="screenshots/simplipass_Mobile3.png" width="240"/>
 
 ## More Details
 
