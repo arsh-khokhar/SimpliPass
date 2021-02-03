@@ -2,7 +2,8 @@
 
 _Maximize your academic success through optimal course selections and reviews!_
 
-[![HitCount](http://hits.dwyl.com/https://github.com/arsh-khokhar/SimpliPass.svg)](http://hits.dwyl.com/https://github.com/arsh-khokhar/SimpliPass)
+[![HitCount](http://hits.dwyl.io/arsh-khokhar/https://githubcom/arsh-khokhar/SimpliPass.svg)](http://hits.dwyl.io/arsh-khokhar/https://githubcom/arsh-khokhar/SimpliPass)
+
 
 ## What is SimpliPass?
 
